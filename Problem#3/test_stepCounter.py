@@ -1,6 +1,6 @@
 
 
-from main import feet_to_steps
+from stepCounter import feet_to_steps
 
 def test_passed():
     

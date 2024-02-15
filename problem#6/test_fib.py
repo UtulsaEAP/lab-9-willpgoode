@@ -1,4 +1,4 @@
-from main import fibonacci
+from fib import fibonacci
 
 def test_passed():
     # Test case 1

@@ -1,4 +1,4 @@
-from main import kilo_to_pounds
+from kilo2lbs import kilo_to_pounds
 
 def tests_passed():
     # Test case 1: kilo_to_pounds(0)

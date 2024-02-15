@@ -1,4 +1,4 @@
-from main import swap_values
+from varSwap import swap_values
 
 def test_passed():
     val1 = -1

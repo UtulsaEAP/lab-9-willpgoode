@@ -1,8 +1,8 @@
 # Import student module you would like to test.
 # For example:
 # from main import add
-from main import int_to_reverse_binary
-from main import string_reverse
+from intToBin import int_to_reverse_binary
+from intToBin import string_reverse
 
 def test_passed():
     studentResultBinary = int_to_reverse_binary(19)
