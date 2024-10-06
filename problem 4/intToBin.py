@@ -1,7 +1,7 @@
 def int_to_reverse_binary(num1):
     binary_val = ''
 #write your while loop here
-    while num1 > 0:
+    #while num1 > 0:
         #write your code
 
     return binary_val;

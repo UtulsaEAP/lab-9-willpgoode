@@ -1,6 +1,7 @@
 def fibonacci(n):
+    
     #write your code here
-
+    return
 
 if __name__ == '__main__':
     start_num = int(input())
